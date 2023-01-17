@@ -3,7 +3,8 @@ The OBS Studio files for the MHS Esports stream.
 
 Installation
 -------------
-Download the master .zip file, and extract anywhere.
+Download the master .zip file, and extract anywhere. Navigate to the "font" folder, open it, and double click "LeagueSpartan-Bold.ttf". Make sure this font is installed.
+
 In OBS-Studio click the "Scene Collection" button from the function menu, and hit import.
 
 ![image](https://user-images.githubusercontent.com/77819489/212986406-fe4af443-548d-4cc2-8902-3851e6537b03.png)
