@@ -3,7 +3,7 @@ The OBS Studio files for the MHS Esports stream.
 
 Basic Installation
 -------------
-Download the master .zip file, and extract anywhere. Navigate to the "font" folder, open it, and <b>make sure all fonts are installed on the machine</b>
+Download the master .zip file, by clicking the green "Code" and clicking "Download Zip" button and extract anywhere. Navigate to the "font" folder, open it, and <b>make sure all fonts are installed on the machine</b>
 
 In OBS-Studio click the "Scene Collection" button from the function menu, and hit import.
 
